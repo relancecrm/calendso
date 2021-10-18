@@ -6,6 +6,7 @@
   "webhook_status": "Webhook-Status",
   "webhook_enabled": "Webhook aktiviert",
   "manage_your_webhook": "Webhook verwalten",
+  "webhook_created_successfully": "Webhook erfolgreich aktualisiert!",
   "webhook_updated_successfully": "Webhook erfolgreich aktualisiert!",
   "webhook_removed_successfully": "Webhook erfolgreich entfernt!",
   "dismiss": "Abbrechen",
